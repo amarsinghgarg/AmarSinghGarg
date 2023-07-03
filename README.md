@@ -1,3 +1,4 @@
+![logo](https://github.com/amarsinghgarg/AmarSinghGarg/blob/amarsinghgarg-patch-1/banner3.jpg)
 <h1 align="center">Hi 👋, I'm Amar Singh Garg</h1>
 <h3 align="center">Final Year🌟 | Electronics and Communication Engineering🎓 | Aspiring Engineer🧑🏻‍💻</h3>
 
